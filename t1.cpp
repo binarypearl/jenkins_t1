@@ -7,5 +7,7 @@ int main() {
 
 	cout << "no longer missing semi colon." << endl;
 
+	cout << "blah" << endl;
+
 	return (0);
 }
